@@ -6,12 +6,12 @@
 
 @media only screen and (max-width: 900px) 
 {
-    #header #header-wrapper #logo #menu #banner #page  {	min-height: 828px; }
+    #header #header-wrapper #logo #menu #banner #page  {	min-height: 792px; }
 }
 
 @media only screen and (max-width: 767px) 
 {
-    #header #header-wrapper #logo #menu #banner #page  {	min-height: 828px; }
+    #header #header-wrapper #logo #menu #banner #page  {	min-height: 780px; }
 }
 
 @media only screen and (max-width: 460px) 
