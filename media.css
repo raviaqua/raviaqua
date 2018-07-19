@@ -1,0 +1,25 @@
+@media only screen and (max-width: 1140px) 
+{
+    #header #header-wrapper #logo #menu #banner #page  {	min-height: 828px; }
+}
+
+
+@media only screen and (max-width: 900px) 
+{
+    #header #header-wrapper #logo #menu #banner #page  {	min-height: 828px; }
+}
+
+@media only screen and (max-width: 767px) 
+{
+    #header #header-wrapper #logo #menu #banner #page  {	min-height: 828px; }
+}
+
+@media only screen and (max-width: 460px) 
+{
+    #header #header-wrapper #logo #menu #banner #page  {	min-height: 780px; }
+}
+@media only screen and (max-width: 400px) 
+{
+    #header #header-wrapper #logo #menu #banner #page  {	min-height: 744px; }
+}
+
